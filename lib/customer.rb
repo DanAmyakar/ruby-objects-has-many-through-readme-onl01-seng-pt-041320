@@ -29,4 +29,6 @@ class Customer
     meals.collect {|meal| meal.waiter}
   end
   
+  
+  
 end
